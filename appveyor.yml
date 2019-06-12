@@ -80,4 +80,5 @@ build: false
 # environment variable.
 build_script:
   - cargo build
+  - cargo test
 
